@@ -1,1 +1,2 @@
-console.log('hello guys,This message is from javascript')
+console.log(a)
+var a = 10;
