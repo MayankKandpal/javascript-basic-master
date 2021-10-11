@@ -18,3 +18,13 @@ if(Array.isArray(array)){
     array[3]="somedata"
 }
 console.log(array)
+console.clear()
+var arraylist = [1,2,3,4,5]
+arraylist.push(6)
+arraylist.push(7)
+arraylist.unshift(0)
+arraylist.unshift(-1)
+arraylist.pop()
+console.log(arraylist)
+datalist.push({firstname:"Scott"})
+console.log(datalist)
