@@ -15,7 +15,7 @@ Student.prototype = new Person()
 Student.prototype.getAge = function(){
     return this.age
 }
-console.clear
+console.clear()
 var student = new Student(21)
 student.firstname = 'Mayank'
 student.lastname ='Kandpal'
